@@ -1,5 +1,5 @@
 # Brawl Stars Event Assets Archive
-* To upload new event assets, create an issue or contact with me on my discord `xxcoobloyxx`
+* To upload new event assets, create an issue or contact me on discord(`xxcoobloyxx`)
 
 # Credits
 These files were found/uploaded by:
